@@ -1,0 +1,26 @@
+[
+    {
+      "date": "2021-06-18",
+      "new_confirmed": 10807,
+      "new_deaths": 497,
+      "state": "PR"
+    },
+    {
+      "date": "2021-06-17",
+      "new_confirmed": 7666,
+      "new_deaths": 330,
+      "state": "PR"
+    },
+    {
+      "date": "2021-06-16",
+      "new_confirmed": 6619,
+      "new_deaths": 299,
+      "state": "PR"
+    },
+    {
+      "date": "2021-06-15",
+      "new_confirmed": 3979,
+      "new_deaths": 340,
+      "state": "PR"
+    }
+]
